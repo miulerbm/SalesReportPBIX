@@ -4,7 +4,7 @@
 
 ### Resumen de la Demanda de Negocio y User Stories
 
-**Solicitud de Negocio de Steven:**
+**Solicitud de Negocio:**
 - Necesidad de mejorar los informes de ventas por internet.
 - Deseo de pasar de informes estáticos a paneles visuales.
 - Enfoque en cuánto hemos vendido de qué productos, a qué clientes y cómo ha sido a lo largo del tiempo.
